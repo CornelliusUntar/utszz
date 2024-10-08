@@ -148,11 +148,21 @@ header nav ul li a {
 }
 
 .feature-icon {
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 150px;
     margin-bottom: 20px;
 }
 
+.feature-icon-bmi {
+    width: 180px;
+    height: 150px;
+    margin-bottom: 20px;
+}
+.feature-icon-meal {
+    width: 200px;
+    height: 150px;
+    margin-bottom: 20px;
+}
 .feature h3 {
     font-size: 1.5rem;
     margin-bottom: 15px;
